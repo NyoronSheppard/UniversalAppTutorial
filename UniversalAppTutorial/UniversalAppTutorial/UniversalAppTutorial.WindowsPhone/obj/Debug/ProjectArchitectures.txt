@@ -1,0 +1,1 @@
+C:\Users\Juan\Documents\GitHub\UniversalAppTutorial\UniversalAppTutorial\UniversalAppTutorial\UniversalAppTutorial.WindowsPhone\UniversalAppTutorial.WindowsPhone.csproj;neutral
